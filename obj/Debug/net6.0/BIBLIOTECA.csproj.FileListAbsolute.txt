@@ -1,0 +1,5 @@
+/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/obj/Debug/net6.0/BIBLIOTECA.csproj.AssemblyReference.cache
+/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/obj/Debug/net6.0/BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/obj/Debug/net6.0/BIBLIOTECA.AssemblyInfoInputs.cache
+/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/obj/Debug/net6.0/BIBLIOTECA.AssemblyInfo.cs
+/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/obj/Debug/net6.0/BIBLIOTECA.csproj.CoreCompileInputs.cache

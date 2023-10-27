@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mjt4InxlF748tFTStMVzYPKW4pUQ60+sfEAFMQSfu96OgG9MsPD1N2cIC+Gkxwe4HsJgFJ6JRENMxKmCr+yLNw==",
+  "success": true,
+  "projectFilePath": "/home/lordwulfe/Projects/projects/LDP/BIBLIOTECA/BIBLIOTECA.csproj",
+  "expectedPackageFiles": [
+    "/home/lordwulfe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
